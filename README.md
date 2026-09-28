@@ -7,7 +7,7 @@
 <br>
 <h3><code>nominjin@github ~ $ whoami</code></h3>
 <table>
-<td valign="top"><img src="./whoami-card(1).svg" width="800" alt="Nominjin — Info card" /></td>
+<td valign="top"><img src="./whoami-card.svg" width="800" alt="Nominjin — Info card" /></td>
 </table>
 <br>
 <br>
